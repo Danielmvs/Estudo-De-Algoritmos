@@ -8,7 +8,7 @@ function bubbleSort(lista){
     };
 console.log(lista)
 };
-
+//programa teste do algoritmo
 let listaDesordenada = [];
 for (let i = 0; i < 100; i++ ){
     listaDesordenada.push(Math.floor(Math.random()*100) + 1);
